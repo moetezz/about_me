@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I am currently interning with ITS Infrastructure building network assets management tools.<br>🔭 I am a full-stack web & DevOps engineer.<br>🌱 Currently Learning DevOps practices and concepts<br>👯 Flexible to work with any technology or stack<br>⚡ Can't cease to learn new things
+💼 I am currently working at University Of Michigan ITS Infrastructure building network management software.<br>🔭 I am a full-stack web & DevOps engineer.<br>🌱 Currently Learning DevOps practices and concepts<br>👯 Flexible to work with any technology or stack<br>⚡ Can't cease to learn new things
 
 
 # 💻 Tech Stack:
